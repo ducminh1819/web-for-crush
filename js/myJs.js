@@ -1,17 +1,17 @@
 const textConfig = {
-  text1: "He luu cậu!",
-  text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
-  text3: "Cậu yêu tớ có phải không nào ._.",
-  text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v",
-  text5: "Cậu mơ à???",
+  text1: "Chào Lannnn!",
+  text2: "Anh có điều này muốn hỏi, em nhớ phải trả lời thật lòng nhaaa.",
+  text3: "Em có nhớ anh khonggg, em yêu anhcó phải không nào ._.",
+  text4: "Nếu em ko trả lời mà thoát ra tức là muốn làm vợ anh rùi đó nha :v",
+  text5: "Anh mơ à???",
   text6: "Yêu ơi là yêu <3",
-  text7: "lí do cậu thích tớ đi :vvvv",
+  text7: "lí do em thích anhhhh đi :vvvv",
   text8: "Gửi cho tớ <3",
-  text9: "Vì cậu đẹp try vlllll",
-  text10: "Tớ biết mà ^^ Yêu cậu 300.000",
+  text9: "Vì em yêu anh hơn bất kì ai yêu anh <********",
+  text10: "Anh biết mà ^^ Yêu emmmmm 300.000",
   text11:
-    "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
-  text12: "Okii lunn <3",
+    "Chúc em có một buổi tối đi chơi cùng gia đình vui vẻ ^^ Yêu lắm ạ.",
+  text12: "Okii nhóooo <3",
 };
 
 $(document).ready(function () {
